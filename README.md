@@ -276,15 +276,14 @@ The analysis provides actionable insights to support customer retention, operati
 
 ### Executive Overview Dashboard
 
-(Add Screenshot Here)
+![Executive Overview Dashboard](dashboard_1_executive_overview.png)
 
 ### Customer & Product Insights Dashboard
 
-(Add Screenshot Here)
+![Customer & Product Insights Dashboard](dashboard_2_customer_product.png)
 
 ### Operations & Seller Performance Dashboard
-
-(Add Screenshot Here)
+![Operations & Seller Performance Dashboard](dashboard_3_operations_seller.png)
 
 ---
 
