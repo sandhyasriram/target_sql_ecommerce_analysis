@@ -276,7 +276,7 @@ The analysis provides actionable insights to support customer retention, operati
 
 ### Executive Overview Dashboard
 
-![Executive Overview Dashboard](dashboard_1_executive_overview.png)
+![Target Brazil Ecommerce Analysis Dashboard](dashboard_1_executive_overview.png)
 
 ### Customer & Product Insights Dashboard
 
