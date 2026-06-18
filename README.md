@@ -8,6 +8,23 @@ The objective is to identify business opportunities, improve customer retention,
 
 ---
 
+## Project Workflow
+
+1. Data Cleaning
+2. Data Exploration
+3. KPI Analysis
+4. Revenue Analysis
+5. Customer Analysis
+6. Product Analysis
+7. Payment Analysis
+8. Delivery Analysis
+9. Seller Performance Analysis
+10. RFM Customer Segmentation
+11. Tableau Dashboard Development
+12. Business Recommendations
+
+---
+
 ## Tools Used
 
 * SQL (Google BigQuery)
