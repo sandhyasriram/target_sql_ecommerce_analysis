@@ -42,7 +42,7 @@ Tables Used:
 * Orders
 * Customers
 * Order Items
-* Order Payments
+* Payments
 * Products
 * Sellers
 
